@@ -5,7 +5,7 @@ module.exports = {
     url: 'https://www.petermaxcy.com',
     author: 'Peter Maxcy',
   },
-  pathPrefix: '/',
+  pathPrefix: '/petermaxcy',
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',
