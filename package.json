@@ -88,8 +88,6 @@
     "lint:text": "textlint src/pages/**/index.md",
     "lint:textfix": "textlint --fix src/pages/**/index.md",
     "precommit": "lint-staged",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild": "gatsby build --prefix-paths && gh-pages -d public",
-    "prestart": "npm install"
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
