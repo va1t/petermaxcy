@@ -1,9 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'Peter Maxcy | Web Developer',
+    title: 'Peter Maxcy | Software Engineer',
     description: 'All about Peter Maxcy',
     url: 'https://www.petermaxcy.com',
     author: 'Peter Maxcy',
+    twitter: '',
   },
   pathPrefix: '/petermaxcy',
   plugins: [
