@@ -120,7 +120,7 @@ class Bio extends React.Component {
           </div>
         </section>
 
-        <section id="features" className="text-center">
+        <section className="text-center">
           <div className="container">
             <div className="row">
               <div className="col-lg-12">
@@ -137,6 +137,24 @@ class Bio extends React.Component {
             </div>
           </div>
         </section>
+        <section className="bg-primary text-white text-center">
+          <div className="container">
+            <div className="row">
+              <div className="col-lg-12">
+                <h2 className="section-heading">Developer Tools</h2>
+                <hr className="border-primary" />
+              </div>
+            </div>
+          </div>
+          <div className="container">
+            <div className="row justify-content-md-center">
+              <div className="col-lg-8">
+                <p>put stuff here</p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <div name="bottom" id="bottom" />
       </div>
     )
   }

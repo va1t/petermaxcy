@@ -6,7 +6,7 @@ module.exports = {
     author: 'Peter Maxcy',
     twitter: '',
   },
-  pathPrefix: '/petermaxcy',
+  pathPrefix: '/',
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',
